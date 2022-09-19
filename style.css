@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    width: 100vw;
+}
+
+div a{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 155px;
+    width: 288px;
+    font-size: 30px !important;
+}
+
+.wrapper{
+    display: flex !important;
+    align-content: center !important;
+    flex-flow: column !important;
+    align-items: center !important;
+}
